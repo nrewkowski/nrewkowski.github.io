@@ -1,0 +1,63 @@
+#headerintro{
+	margin:auto;
+	width:50%;
+}
+
+#headerintro img{
+	display:block;
+	margin: 0 auto;
+	height:50%;
+	width:50%;
+}
+
+#ex{
+	color:blue;
+	font-size:50px;
+}
+#disclaimer{
+	font-size:25px;
+	color:red;
+	text-transform: uppercase;
+	font-family: "Courier New", Courier, monospace;
+}
+
+#ingredients{
+	border:5px solid blue;
+	border-radius:5px;
+	border-width:medium;
+	background-color:#ffe5e5;
+	font-family: "Arial", Arial, sans-serif;
+}
+#ingredients:hover{
+	font-size:30px;
+}
+#instructions{
+	border:5px solid red;
+	border-radius:5px;
+	border-width:medium;
+	background-color:#eafeea;
+	font-family: "Arial", Arial, sans-serif;
+}
+#instructions:hover{
+	font-size:30px;
+}
+body{
+	background-color:#f0ead6;
+}
+#stokedaf img{
+	display:block;
+	margin: 0 auto;
+	width:50%;
+	height:50%;
+}
+#note{
+	font-size:25px;
+	color:#7CFC00;
+}
+#note:hover{
+	color:red;
+}
+h1{
+	font-size:50px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
